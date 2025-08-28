@@ -53,7 +53,7 @@ Explore my repositories to see how I:
 
 - 📧 Email: [rehankhan022127@gmail.com]  
 - 💼 LinkedIn: [https://www.linkedin.com/in/mohammed-rehan-0262631b2] 
-- 🌐 Portfolio: [datascienceportfol.io/rehankhan022127]
+- 🌐 Portfolio: [https://datascienceportfol.io/rehankhan022127]
 
 ---
 
