@@ -42,8 +42,8 @@ Explore my repositories to see how I:
 
 - 📈 Built dynamic **Power BI dashboards** for retail and supply chain KPIs  
 - 🐍 Automated Excel reports using **Python**  
-- 🧾 Developed **SQL-based reporting systems** for e-commerce analytics  
-- 🔄 Built **end-to-end data pipelines** for oil and gas operations  
+- 🧾 Developed **SQL-based reporting systems** for Oil and gas analytics  
+- 🔄 Built **end-to-end data pipelines** for ETL operations  
 
 > 🗂️ *Each project includes code, documentation, and visuals for real-world context.*
 
@@ -52,7 +52,8 @@ Explore my repositories to see how I:
 ## 📫 Let's Connect
 
 - 📧 Email: [rehankhan022127@gmail.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/mohammed-rehan-0262631b2]    
+- 💼 LinkedIn: [https://www.linkedin.com/in/mohammed-rehan-0262631b2] 
+- 🌐 Portfolio: [datascienceportfol.io/rehankhan022127]
 
 ---
 
