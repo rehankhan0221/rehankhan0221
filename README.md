@@ -42,8 +42,9 @@ Explore my repositories to see how I:
 
 - 📈 Built dynamic **Power BI dashboards** for retail and supply chain KPIs  
 - 🐍 Automated Excel reports using **Python**  
-- 🧾 Developed **SQL-based reporting systems** for Oil and gas analytics  
-- 🔄 Built **end-to-end data pipelines** for ETL operations  
+- 🧾 Developed **SQL-based reporting systems**   
+- 🔄 Built **end-to-end data pipelines** for ETL operations
+- 📊 Designed **advanced Excel reports** with automated calculations and error-proof formulas
 
 > 🗂️ *Each project includes code, documentation, and visuals for real-world context.*
 
