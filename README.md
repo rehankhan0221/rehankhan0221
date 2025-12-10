@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rehan — Data Analyst / Business Analyst / Analytics Engineer with 4+ Years of Experience
+# 👋 Hi there, I'm Rehan — Analytics Engineer / Data Specialist with 4+ Years of Experience
 
 Welcome to my GitHub!
 
