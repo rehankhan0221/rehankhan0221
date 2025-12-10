@@ -2,14 +2,14 @@
 
 Welcome to my GitHub!
 
-I'm a **Data Analyst** with **4+ years of hands-on experience** turning raw data into actionable insights. I’ve worked across industries including **IT**, **Retail**, **Supply Chain**, **E-commerce**, and **Oil & Gas** — solving real-world business problems with smart, data-driven decisions.
+I'm a **Data Specialist** with **4+ years of hands-on experience** turning raw data into actionable insights and building scalable pipelines for ETL workloads. I’ve worked across industries including **IT**, **Retail**, **Supply Chain**, **E-commerce**, and **Oil & Gas** — solving real-world business problems with smart, data-driven decisions.
 
 ---
 
 ## 🧠 What I Do
 
 - 🔍 Turn raw data into clear, compelling **data stories** that drive business impact  
-- ⚙️ Build **automated reporting systems** using Python & Excel — saving hours of manual effort  
+- ⚙️ Build **automated ETL Pipelines** using Python & AWS — saving hours of manual effort  
 - 📊 Design dynamic dashboards to visualize KPIs, trends & bottlenecks  
 - 🎓 Provide **Excel training** to junior analysts to enhance team productivity  
 - 🎯 Align data strategy with organizational goals to deliver measurable outcomes  
